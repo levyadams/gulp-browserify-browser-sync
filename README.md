@@ -18,7 +18,7 @@ A simple project to show how useful gulp can be when used with a few simple plug
 
 # How It Works
 
-Browser-sync loads up a build folder build by gulp that includes a bundled html package that uses javascript bundles and responsive images.
+Browser-sync loads up a build folder via gulp that includes a bundled html package that uses javascript and responsive images.
 
 ```gulp webp``` goes inside of the src images folder and creates a webp image out of every image in the folder. ```gulp build`` goes through and builds the responsive images folder, bundles the js, and outputs the inlined-with-css html file(s). 
 
