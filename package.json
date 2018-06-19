@@ -1,0 +1,48 @@
+{
+  "name": "project_phase_2",
+  "version": "1.0.0",
+  "description": "Udacity project phase 2",
+  "private": true,
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/levyadams/restaurantReviewApp.git"
+  },
+  "author": " <letitslide87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp dev"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^9.0.0",
+    "browser-sync": "^2.24.4",
+    "browserify": "^16.2.2",
+    "buffer": "^5.1.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-inline": "^0.1.3",
+    "gulp-minify": "^2.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-responsive-images": "0.0.3",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-webp": "^3.0.0",
+    "htmlmin": "0.0.7",
+    "path": "^0.12.7",
+    "run-sequence": "^2.2.1",
+    "source": "0.0.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}

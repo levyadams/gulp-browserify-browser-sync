@@ -1,0 +1,23 @@
+body,td,th,p,html{
+	font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  max-width: 100%;
+ 
+}
+body {
+	background-color: #e72828;
+	margin: 0;
+	position:relative;
+}
+#header-title{
+  text-align: center;
+  font-size:1.6em;
+  margin:6%;
+}
+img{
+  max-width: 100%;
+  max-height: 250px;
+  margin-bottom:30%;
+  margin-left:13.5%;
+  margin-right:auto;
+}
