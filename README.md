@@ -28,6 +28,10 @@ Gulp then watches the original source files for any changes by you, which then t
 
 Simple, just copy how the ```browserify-main``` task runs, and make sure to add it to each run sequence the other task is involved in. A good idea if you have a lot of these would be to make a run task with an array of these tasks, so only that task would need to be called by the helper tasks that need it, like ```watch``` and ```build```.
 
+# What are those strange marks in all of the files?
+
+Those are called comments, and they are there to help you understand how the code works. It is an ancient practice not recognized by 99% of javascript developers.
+
 
 
 
