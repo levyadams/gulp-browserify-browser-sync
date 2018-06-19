@@ -8,7 +8,7 @@ A simple project to show how useful gulp can be when used with a few simple plug
 
 2. ```npm install```
 
-2.a(do ```npm i -g gulp``` if you don't have it already globally thanks to @flaura)
+2.a(do ```npm i -g gulp gulp-cli``` if you don't have it already globally thanks to @flaura)
 
 3. build webp images with ```gulp webp```
 
