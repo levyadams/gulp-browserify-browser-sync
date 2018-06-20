@@ -12,14 +12,14 @@ http://www.graphicsmagick.org/download.html
 
 3. a. (do ```npm i -g gulp gulp-cli``` if you don't have it already globally thanks to https://github.com/flaura42)
 
-3. b. ```npm install gulp``` to install gulp locally.
+   b. ```npm install gulp``` to install gulp locally.
 
 
-3. build webp images with ```gulp webp``` (project should run without this step still, however)
+4. build webp images with ```gulp webp``` (project should run without this step still, however)
 
-4. build project and launch with ```gulp build```
+5. build project and launch with ```gulp build```
 
-5. ```gulp dev``` to restart watching/developement server
+6. ```gulp dev``` to restart watching/developement server
 
 # How It Works
 
