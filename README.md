@@ -6,11 +6,11 @@ A simple project to show how useful gulp can be when used with a few simple plug
 
 1. Install image magick/graphics magic
 
-2. ```npm install```
+2. ```npm install``` if you don't have browser-sync installed already ```npm i -g browser-sync```
 
-2.a(do ```npm i -g gulp gulp-cli``` if you don't have it already globally thanks to @flaura)
+2.a(do ```npm i -g gulp gulp-cli``` if you don't have it already globally thanks to https://github.com/flaura42)
 
-3. build webp images with ```gulp webp```
+3. build webp images with ```gulp webp``` (project should run without this step still, however)
 
 4. build project and launch with ```gulp build```
 
