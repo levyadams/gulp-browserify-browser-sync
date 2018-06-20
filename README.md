@@ -4,7 +4,7 @@ A simple project to show how useful gulp can be when used with a few simple plug
 
 # How To Get Started
 
-1. Install image magick/graphics magic
+1. Install image magick/graphics magic http://www.graphicsmagick.org/
 
 2. ```npm install``` if you don't have browser-sync installed already ```npm i -g browser-sync```
 
