@@ -36,7 +36,3 @@ Simple, just copy how the ```browserify-main``` task runs, and make sure to add 
 # What are those strange marks in all of the files?
 
 Those are called comments, and they are there to help you understand how the code works. It is an ancient practice not recognized by 99% of javascript developers.
-
-# What is with all of the security audit alarms going off?
-
-I don't know how to fix them, please halp
