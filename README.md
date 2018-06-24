@@ -14,7 +14,6 @@ http://www.graphicsmagick.org/download.html
 
    b. ```npm install gulp``` to install gulp locally.
 
-
 4. build webp images with ```gulp webp``` (project should run without this step still, however)
 
 5. build project and launch with ```gulp build```
